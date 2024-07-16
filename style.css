@@ -1,0 +1,18 @@
+body{
+    font-size: 60px;
+    color: red;
+    height: auto;
+    width: 900px;
+    background-image: url(the\ look.gif);
+    background-size: 1700px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+p{
+    font-size: 40px;
+    color: blue;
+}
+select{
+    font-size: 40px;
+}
